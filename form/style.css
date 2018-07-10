@@ -1,0 +1,55 @@
+form{
+	border-radius:1em;
+	border:1px solid black;
+	margin:0 auto;
+	padding:20px;
+	width:400px;
+	
+}
+fieldset{
+	width:200px;
+	box-sizing:border-box;
+	margin-left:200;
+}
+ul{
+	margin:2px;
+	padding:2px;
+	list-style:none;
+	
+}
+span{
+	display:inline-block;
+	width:200px;
+	text-align:right;
+	color:red;
+}
+label {
+display: inline-block;
+  width:50x;
+  text-align: right
+}
+label span {
+          display: inline-block;
+          width: 120px;
+          text-align:right;
+      }
+label em{
+	position:absolute;
+	right:5px;
+	top:15px;
+}
+
+div{
+	margin-top:1em;
+	
+}
+button{
+	width:200px;
+	margin-left:150px;
+}
+textarea {
+  vertical-align: top;
+  height: 5;
+  color:blue;
+}
+
